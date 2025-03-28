@@ -1,4 +1,12 @@
+# Bike Availability Prediction
 
+Capstone project for the Data Science and AI Posgraduation at UB
+
+Students: 
+- Fabio Marinho
+- Isanagui Rojas
+- Leonardo Silveira
+- Pedro Corbelle
 
 ## Introduction
 
